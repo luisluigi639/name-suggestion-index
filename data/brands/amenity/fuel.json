@@ -978,13 +978,11 @@
     {
       "displayName": "Chipo",
       "id": "chipo-16b3c2",
-      "locationSet": {
-        "include": ["001"],
-        "exclude": ["pl"]
-      },
+      "locationSet": {"include": ["uk"]},
       "tags": {
         "amenity": "fuel",
         "brand": "Chipo",
+        "brand:wikidata": "Q112082302",
         "name": "Chipo"
       }
     },
